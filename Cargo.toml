@@ -4,3 +4,4 @@ members = [
   "rust",
   "tools/eddsa",
 ]
+exclude = ["create-and-send"]
